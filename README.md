@@ -5,7 +5,7 @@
 </div>
 
 ### Hi there 👋
-- Studying computer engineering at University of Granada (Granada)
+- Studying computer engineering at University of Granada (UGR)
 - Linux enthusiat
 
 
