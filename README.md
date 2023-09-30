@@ -5,11 +5,7 @@
 ### Hi there 👋
 - Studying computer engineering at University of Granada (UGR)
 - Linux enthusiast
-
-### Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/timursorokin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="timursorokin" height="30" width="40" /></a>
-</p>
+- How to reach me **timursorokin94@gmail.com**
 
 ### Languages and Tools
 <p align="left">
