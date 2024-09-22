@@ -5,7 +5,6 @@
 ### Hi there 👋
 - Studying computer engineering at University of Granada (UGR)
 - Linux enthusiast
-- How to reach me **timursorokin94@gmail.com**
 
 ### Languages and Tools
 <p align="left">
